@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "5c511b39-b1c0-4d0a-b0a5-152f3cfefbc8",
+		"name": "Anydone API Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22417948"
+	},
+	"item": [
+		{
+			"name": "CREATE TICKET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
